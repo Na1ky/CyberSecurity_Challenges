@@ -1,0 +1,52 @@
+11:59:11 [DEBUG] payroll: disk usage at 3%
+20:28:33 [ERROR] payroll: sync completed
+00:49:10 [WARN] vpn: user logged in
+15:18:26 [INFO] printer: disk usage at 89%
+07:17:34 [ERROR] ldap: retrying in 28s
+16:33:33 [INFO] vpn: user logged in
+06:40:15 [DEBUG] wiki: sync completed
+18:49:40 [ERROR] payroll: user logged out
+22:14:44 [ERROR] ldap: certificate expires in 98 days
+08:52:37 [INFO] printer: connection reset
+04:25:16 [INFO] mail: certificate expires in 96 days
+19:42:38 [INFO] ldap: sync completed
+06:59:07 [INFO] backup: connection reset
+11:59:15 [ERROR] ldap: sync completed
+19:46:23 [DEBUG] ldap: job finished
+13:27:52 [WARN] payroll: retrying in 57s
+06:58:08 [INFO] wiki: connection reset
+14:47:13 [ERROR] wiki: retrying in 64s
+20:57:00 [INFO] payroll: user logged out
+05:52:17 [INFO] backup: retrying in 97s
+20:43:36 [WARN] vpn: retrying in 29s
+10:46:51 [WARN] vpn: job finished
+04:53:49 [INFO] payroll: certificate expires in 71 days
+01:49:27 [WARN] ldap: job finished
+18:19:05 [WARN] vpn: sync completed
+08:30:20 [INFO] printer: certificate expires in 79 days
+06:48:56 [INFO] vpn: connection reset
+03:03:23 [DEBUG] vpn: user logged out
+10:23:31 [INFO] mail: job finished
+08:11:41 [ERROR] wiki: disk usage at 41%
+18:28:54 [WARN] ldap: user logged in
+05:37:01 [WARN] wiki: user logged in
+03:46:59 [INFO] wiki: certificate expires in 73 days
+14:13:50 [ERROR] payroll: retrying in 48s
+13:29:10 [WARN] payroll: user logged in
+09:14:09 [DEBUG] mail: sync completed
+04:36:03 [INFO] backup: connection reset
+02:55:17 [ERROR] backup: retrying in 47s
+01:16:54 [WARN] printer: job finished
+11:44:57 [DEBUG] backup: user logged out
+20:29:40 [INFO] wiki: certificate expires in 27 days
+20:17:55 [WARN] printer: connection reset
+02:57:27 [ERROR] printer: sync completed
+17:05:32 [ERROR] backup: job finished
+12:29:31 [DEBUG] wiki: disk usage at 73%
+02:06:50 [ERROR] wiki: certificate expires in 26 days
+12:59:55 [WARN] printer: disk usage at 57%
+01:20:14 [WARN] printer: certificate expires in 65 days
+14:34:26 [INFO] ldap: user logged in
+02:11:35 [INFO] payroll: sync completed
+20:25:22 [WARN] payroll: connection reset
+20:59:23 [INFO] vpn: connection reset

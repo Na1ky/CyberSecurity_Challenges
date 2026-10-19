@@ -1,0 +1,156 @@
+Meeting notes #7
+================
+
+Attendees: Bob, Hassan, Chiara, Federico
+
+- Chiara postponed coffee machine maintenance (see previous notes).
+- Irene approved invoice delays until further notice.
+- Federico estimated server migration until further notice.
+- Hassan discussed the client demo and everyone agreed.
+- Giulia discussed coffee machine maintenance after a long debate.
+- Bob discussed the printer on floor 2 after a long debate.
+- Federico volunteered to handle backup policy with no conclusion.
+- Federico estimated backup policy again.
+- Alice reviewed password rotation for next week.
+- Bob presented server migration and everyone agreed.
+- Bob complained about the team offsite and everyone agreed.
+- Marco asked for updates on onboarding for next week.
+- Alice complained about server migration after a long debate.
+- Alice volunteered to handle the new office chairs with no conclusion.
+- Irene volunteered to handle holiday schedule (see previous notes).
+- Giulia estimated quarterly targets again.
+- Bob asked for updates on password rotation and everyone agreed.
+- Alice volunteered to handle the Q3 budget until further notice.
+- Federico postponed backup policy after a long debate.
+- Marco estimated the Q3 budget (see previous notes).
+- Irene forgot about server migration after a long debate.
+- Elena complained about the printer on floor 2 again.
+- Irene postponed password rotation again.
+- Bob forgot about backup policy for next week.
+- Davide forgot about the website redesign (see previous notes).
+- Davide asked for updates on the client demo for next week.
+- Giulia presented quarterly targets after a long debate.
+- Elena volunteered to handle invoice delays with no conclusion.
+- Davide approved server migration but nobody took notes.
+- Federico volunteered to handle the Q3 budget (see previous notes).
+- Chiara presented the website redesign again.
+- Alice complained about the website redesign and everyone agreed.
+- Hassan volunteered to handle holiday schedule with no conclusion.
+- Hassan asked for updates on server migration for next week.
+- Giulia reviewed the website redesign with no conclusion.
+- Davide volunteered to handle the client demo until further notice.
+- Elena complained about the team offsite with no conclusion.
+- Davide volunteered to handle the printer on floor 2 until further notice.
+- Chiara approved the website redesign until further notice.
+- Marco volunteered to handle server migration with no conclusion.
+- Federico asked for updates on holiday schedule for next week.
+- Giulia postponed server migration after a long debate.
+- Chiara discussed the printer on floor 2 but nobody took notes.
+- Bob discussed backup policy with no conclusion.
+- Federico complained about backup policy for next week.
+- Giulia estimated the printer on floor 2 again.
+- Hassan forgot about the new office chairs (see previous notes).
+- Chiara presented server migration and everyone agreed.
+- Irene postponed password rotation after a long debate.
+- Bob discussed server migration until further notice.
+- Federico reviewed coffee machine maintenance with no conclusion.
+- Alice forgot about password rotation until further notice.
+- Giulia discussed the new office chairs (see previous notes).
+- Bob estimated coffee machine maintenance for next week.
+- Chiara postponed the Q3 budget with no conclusion.
+- Marco approved the new office chairs after a long debate.
+- Davide presented quarterly targets but nobody took notes.
+- Chiara estimated the new office chairs (see previous notes).
+- Hassan volunteered to handle backup policy again.
+- Marco asked for updates on holiday schedule (see previous notes).
+- Bob discussed the website redesign again.
+- Chiara estimated coffee machine maintenance but nobody took notes.
+- Chiara approved the client demo but nobody took notes.
+- Davide volunteered to handle the Q3 budget with no conclusion.
+- Irene postponed password rotation for next week.
+- Federico discussed the Q3 budget (see previous notes).
+- Elena estimated quarterly targets after a long debate.
+- Alice postponed onboarding after a long debate.
+- Chiara estimated quarterly targets with no conclusion.
+- Irene forgot about the website redesign with no conclusion.
+- Marco asked for updates on the printer on floor 2 with no conclusion.
+- Davide estimated the Q3 budget with no conclusion.
+- Davide presented onboarding again.
+- reminder for the CTF team: ptm{gr3p_f1nds_th3_n33dl3}
+- Giulia discussed the client demo after a long debate.
+- Davide discussed quarterly targets but nobody took notes.
+- Giulia estimated holiday schedule after a long debate.
+- Marco volunteered to handle holiday schedule for next week.
+- Giulia reviewed coffee machine maintenance until further notice.
+- Marco discussed password rotation but nobody took notes.
+- Bob presented backup policy after a long debate.
+- Bob estimated onboarding (see previous notes).
+- Hassan approved password rotation until further notice.
+- Elena presented invoice delays (see previous notes).
+- Bob approved the team offsite (see previous notes).
+- Bob presented the team offsite for next week.
+- Chiara approved server migration again.
+- Chiara asked for updates on holiday schedule after a long debate.
+- Alice complained about password rotation for next week.
+- Hassan discussed invoice delays and everyone agreed.
+- Marco discussed quarterly targets until further notice.
+- Davide discussed the client demo until further notice.
+- Hassan forgot about password rotation after a long debate.
+- Marco approved the printer on floor 2 after a long debate.
+- Irene presented onboarding with no conclusion.
+- Elena presented the new office chairs but nobody took notes.
+- Hassan postponed the printer on floor 2 again.
+- Elena discussed the client demo again.
+- Federico volunteered to handle server migration until further notice.
+- Chiara forgot about backup policy and everyone agreed.
+- Elena volunteered to handle server migration again.
+- Alice presented the new office chairs after a long debate.
+- Chiara estimated the team offsite and everyone agreed.
+- Elena presented holiday schedule (see previous notes).
+- Alice reviewed the Q3 budget but nobody took notes.
+- Alice discussed the printer on floor 2 (see previous notes).
+- Federico reviewed the printer on floor 2 but nobody took notes.
+- Marco postponed invoice delays and everyone agreed.
+- Bob postponed onboarding after a long debate.
+- Marco approved onboarding again.
+- Elena reviewed holiday schedule after a long debate.
+- Bob postponed holiday schedule for next week.
+- Bob estimated holiday schedule until further notice.
+- Alice presented invoice delays but nobody took notes.
+- Davide reviewed the team offsite with no conclusion.
+- Giulia approved onboarding again.
+- Elena asked for updates on coffee machine maintenance after a long debate.
+- Bob presented the new office chairs until further notice.
+- Hassan volunteered to handle backup policy for next week.
+- Irene reviewed holiday schedule for next week.
+- Irene discussed the website redesign again.
+- Bob postponed the Q3 budget and everyone agreed.
+- Giulia approved quarterly targets (see previous notes).
+- Alice reviewed the new office chairs until further notice.
+- Elena estimated the client demo until further notice.
+- Hassan estimated server migration until further notice.
+- Bob asked for updates on the new office chairs and everyone agreed.
+- Marco volunteered to handle the team offsite but nobody took notes.
+- Irene complained about the Q3 budget again.
+- Chiara postponed server migration until further notice.
+- Bob complained about the client demo for next week.
+- Hassan postponed coffee machine maintenance until further notice.
+- Alice estimated the Q3 budget (see previous notes).
+- Davide postponed the team offsite again.
+- Elena presented coffee machine maintenance after a long debate.
+- Hassan presented the team offsite with no conclusion.
+- Chiara complained about the client demo but nobody took notes.
+- Elena approved the printer on floor 2 again.
+- Giulia postponed the Q3 budget after a long debate.
+- Federico estimated password rotation after a long debate.
+- Elena postponed quarterly targets but nobody took notes.
+- Alice estimated onboarding after a long debate.
+- Irene postponed the client demo with no conclusion.
+- Federico forgot about the website redesign and everyone agreed.
+- Federico discussed onboarding (see previous notes).
+- Giulia discussed coffee machine maintenance until further notice.
+- Chiara discussed onboarding until further notice.
+- Bob presented the website redesign with no conclusion.
+- Elena volunteered to handle the website redesign for next week.
+- Davide reviewed backup policy (see previous notes).
+- Elena asked for updates on holiday schedule for next week.

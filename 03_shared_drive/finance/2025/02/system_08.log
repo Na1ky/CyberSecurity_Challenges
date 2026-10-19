@@ -1,0 +1,165 @@
+02:31:56 [DEBUG] wiki: job finished
+04:34:09 [INFO] payroll: job finished
+10:56:15 [DEBUG] printer: retrying in 97s
+14:59:35 [INFO] printer: retrying in 11s
+04:39:48 [ERROR] mail: retrying in 22s
+18:45:58 [DEBUG] backup: sync completed
+03:52:14 [DEBUG] printer: certificate expires in 4 days
+22:23:32 [WARN] payroll: certificate expires in 3 days
+09:15:19 [WARN] printer: sync completed
+06:08:24 [INFO] mail: certificate expires in 53 days
+00:03:20 [INFO] printer: retrying in 91s
+03:13:20 [INFO] backup: disk usage at 83%
+09:55:45 [INFO] vpn: user logged in
+18:53:05 [DEBUG] backup: retrying in 19s
+21:05:39 [WARN] backup: certificate expires in 82 days
+05:05:19 [INFO] payroll: certificate expires in 56 days
+19:27:24 [INFO] ldap: certificate expires in 94 days
+03:16:27 [INFO] printer: connection reset
+17:53:27 [INFO] vpn: job finished
+09:07:54 [ERROR] payroll: sync completed
+01:59:31 [ERROR] vpn: user logged in
+15:37:59 [INFO] mail: retrying in 21s
+09:26:16 [INFO] wiki: certificate expires in 81 days
+07:07:05 [INFO] backup: user logged out
+13:05:06 [ERROR] wiki: certificate expires in 1 days
+03:28:44 [WARN] mail: user logged in
+20:41:44 [WARN] wiki: retrying in 25s
+01:22:04 [WARN] printer: job finished
+15:16:37 [INFO] backup: job finished
+17:27:24 [ERROR] mail: disk usage at 83%
+09:47:34 [DEBUG] vpn: user logged out
+19:43:44 [WARN] ldap: sync completed
+20:46:52 [INFO] printer: user logged out
+13:19:41 [INFO] vpn: job finished
+03:23:38 [ERROR] ldap: job finished
+22:00:12 [INFO] ldap: connection reset
+02:20:38 [DEBUG] ldap: job finished
+12:33:14 [INFO] vpn: connection reset
+09:55:34 [WARN] mail: sync completed
+03:31:17 [DEBUG] vpn: connection reset
+02:28:16 [INFO] ldap: connection reset
+12:47:28 [WARN] payroll: disk usage at 53%
+11:21:05 [INFO] payroll: retrying in 88s
+19:10:43 [INFO] ldap: retrying in 51s
+13:48:24 [ERROR] vpn: sync completed
+03:07:53 [DEBUG] ldap: certificate expires in 62 days
+23:17:38 [ERROR] payroll: user logged out
+16:52:11 [INFO] payroll: connection reset
+11:44:59 [WARN] vpn: certificate expires in 13 days
+12:00:09 [INFO] ldap: user logged out
+08:40:17 [INFO] vpn: certificate expires in 42 days
+18:48:37 [WARN] ldap: connection reset
+21:35:17 [ERROR] backup: connection reset
+11:00:37 [DEBUG] printer: job finished
+05:18:48 [ERROR] mail: connection reset
+13:14:29 [ERROR] wiki: certificate expires in 86 days
+14:44:51 [INFO] payroll: job finished
+05:24:07 [INFO] payroll: connection reset
+07:02:13 [WARN] vpn: certificate expires in 2 days
+21:16:23 [WARN] backup: connection reset
+20:28:56 [ERROR] backup: certificate expires in 43 days
+06:30:59 [DEBUG] payroll: disk usage at 94%
+16:16:22 [INFO] vpn: user logged out
+05:47:38 [WARN] wiki: user logged in
+17:43:56 [INFO] vpn: sync completed
+02:32:42 [ERROR] mail: connection reset
+04:02:02 [ERROR] backup: user logged out
+03:56:31 [ERROR] backup: retrying in 85s
+04:59:31 [INFO] backup: disk usage at 42%
+23:44:38 [ERROR] payroll: disk usage at 88%
+05:35:15 [WARN] backup: user logged in
+12:11:13 [INFO] wiki: connection reset
+19:28:07 [DEBUG] vpn: disk usage at 97%
+10:45:21 [DEBUG] wiki: job finished
+08:51:06 [INFO] backup: disk usage at 92%
+10:03:30 [ERROR] mail: retrying in 54s
+10:18:17 [INFO] wiki: sync completed
+09:28:09 [INFO] printer: job finished
+07:02:55 [WARN] vpn: job finished
+14:15:08 [WARN] mail: connection reset
+04:20:29 [INFO] vpn: certificate expires in 34 days
+17:35:03 [INFO] ldap: connection reset
+02:15:41 [DEBUG] backup: certificate expires in 64 days
+23:37:23 [INFO] printer: certificate expires in 31 days
+11:10:24 [INFO] backup: certificate expires in 12 days
+12:36:17 [ERROR] wiki: user logged in
+00:39:32 [ERROR] backup: user logged in
+00:19:17 [INFO] printer: user logged in
+11:31:37 [INFO] vpn: user logged in
+16:56:31 [ERROR] payroll: sync completed
+02:16:28 [INFO] mail: retrying in 45s
+05:01:09 [INFO] backup: connection reset
+05:38:06 [WARN] vpn: disk usage at 87%
+23:48:30 [WARN] mail: connection reset
+21:03:43 [WARN] backup: user logged in
+04:04:00 [ERROR] wiki: user logged in
+22:22:30 [DEBUG] wiki: job finished
+05:30:28 [INFO] printer: disk usage at 23%
+15:24:50 [INFO] backup: certificate expires in 33 days
+23:07:44 [INFO] mail: sync completed
+06:20:02 [INFO] printer: retrying in 58s
+05:55:28 [INFO] vpn: certificate expires in 71 days
+07:40:36 [INFO] payroll: connection reset
+02:56:27 [INFO] ldap: user logged in
+14:50:41 [INFO] backup: sync completed
+13:24:02 [INFO] printer: disk usage at 52%
+04:21:28 [ERROR] payroll: user logged in
+08:45:20 [INFO] payroll: user logged in
+22:18:11 [INFO] wiki: certificate expires in 98 days
+14:52:30 [WARN] mail: disk usage at 90%
+02:54:09 [INFO] wiki: connection reset
+09:24:28 [WARN] vpn: user logged out
+20:54:18 [INFO] printer: disk usage at 68%
+03:07:07 [DEBUG] ldap: retrying in 77s
+00:53:01 [INFO] wiki: connection reset
+06:04:50 [ERROR] payroll: certificate expires in 10 days
+19:59:30 [DEBUG] wiki: user logged in
+11:41:03 [INFO] mail: certificate expires in 80 days
+20:57:55 [INFO] wiki: job finished
+22:07:38 [INFO] wiki: retrying in 59s
+01:02:54 [INFO] mail: retrying in 59s
+07:06:08 [INFO] vpn: sync completed
+13:28:12 [INFO] vpn: job finished
+06:49:08 [INFO] payroll: certificate expires in 90 days
+00:17:59 [INFO] printer: user logged out
+03:07:10 [DEBUG] vpn: retrying in 2s
+09:14:20 [INFO] printer: disk usage at 43%
+07:54:30 [INFO] wiki: disk usage at 50%
+15:12:25 [INFO] mail: disk usage at 73%
+11:43:00 [DEBUG] printer: connection reset
+12:40:02 [INFO] payroll: disk usage at 66%
+17:27:29 [INFO] ldap: user logged out
+14:59:29 [INFO] backup: certificate expires in 99 days
+12:38:47 [DEBUG] wiki: user logged out
+08:50:03 [INFO] wiki: sync completed
+23:13:50 [INFO] printer: retrying in 24s
+10:54:21 [DEBUG] printer: certificate expires in 88 days
+19:42:41 [ERROR] mail: sync completed
+14:48:01 [INFO] wiki: user logged out
+03:19:21 [INFO] ldap: disk usage at 15%
+14:05:04 [INFO] backup: certificate expires in 9 days
+12:12:00 [WARN] wiki: sync completed
+03:16:38 [INFO] mail: connection reset
+13:38:50 [INFO] vpn: retrying in 40s
+09:27:43 [INFO] vpn: connection reset
+18:26:24 [INFO] mail: job finished
+17:41:29 [WARN] wiki: job finished
+02:50:24 [INFO] mail: certificate expires in 23 days
+04:14:35 [INFO] payroll: retrying in 39s
+18:11:31 [WARN] mail: user logged in
+07:35:43 [ERROR] backup: sync completed
+14:57:55 [ERROR] payroll: retrying in 31s
+03:35:19 [INFO] ldap: sync completed
+02:54:04 [ERROR] ldap: sync completed
+05:39:16 [WARN] ldap: user logged in
+14:52:22 [INFO] printer: retrying in 30s
+09:13:34 [INFO] ldap: retrying in 87s
+15:55:52 [INFO] backup: sync completed
+16:03:26 [WARN] wiki: user logged in
+14:44:14 [DEBUG] mail: connection reset
+13:34:00 [ERROR] wiki: sync completed
+18:10:33 [ERROR] wiki: job finished
+05:16:39 [WARN] payroll: sync completed
+16:21:44 [INFO] mail: user logged out
+05:44:13 [INFO] printer: user logged in

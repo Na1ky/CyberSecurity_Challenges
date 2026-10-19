@@ -1,0 +1,50 @@
+23:44:06 [INFO] wiki: disk usage at 6%
+01:35:31 [DEBUG] mail: user logged in
+07:44:39 [ERROR] wiki: certificate expires in 60 days
+16:11:30 [WARN] printer: disk usage at 18%
+04:16:57 [WARN] payroll: user logged in
+14:30:28 [INFO] ldap: sync completed
+17:34:03 [ERROR] backup: user logged out
+04:33:18 [INFO] mail: user logged out
+15:41:41 [INFO] printer: connection reset
+15:35:45 [INFO] wiki: sync completed
+05:31:33 [DEBUG] backup: connection reset
+08:13:55 [INFO] mail: user logged out
+17:44:53 [INFO] vpn: connection reset
+04:24:51 [INFO] printer: job finished
+16:40:46 [WARN] mail: job finished
+01:45:26 [ERROR] vpn: connection reset
+01:08:04 [INFO] wiki: retrying in 75s
+23:05:18 [INFO] backup: user logged out
+05:32:10 [INFO] payroll: user logged in
+00:25:40 [INFO] wiki: retrying in 81s
+10:11:21 [WARN] ldap: connection reset
+00:37:26 [DEBUG] payroll: connection reset
+10:27:23 [INFO] payroll: job finished
+19:56:40 [INFO] wiki: certificate expires in 33 days
+21:48:18 [INFO] payroll: user logged out
+15:03:59 [DEBUG] backup: job finished
+01:45:24 [ERROR] mail: user logged out
+00:38:28 [INFO] wiki: job finished
+15:42:39 [INFO] backup: connection reset
+08:52:56 [INFO] printer: user logged in
+15:36:02 [INFO] payroll: user logged out
+16:59:13 [DEBUG] wiki: connection reset
+19:31:04 [WARN] vpn: retrying in 5s
+02:01:40 [INFO] wiki: retrying in 71s
+01:00:41 [INFO] wiki: certificate expires in 57 days
+02:17:30 [DEBUG] wiki: user logged out
+10:56:59 [INFO] backup: connection reset
+18:46:10 [ERROR] mail: job finished
+21:27:39 [ERROR] wiki: user logged in
+07:30:23 [INFO] payroll: job finished
+09:39:35 [WARN] vpn: user logged out
+01:23:17 [INFO] wiki: disk usage at 83%
+20:09:11 [INFO] mail: user logged in
+21:23:58 [INFO] ldap: sync completed
+13:58:34 [ERROR] ldap: job finished
+05:42:45 [INFO] payroll: retrying in 3s
+03:56:37 [WARN] printer: user logged in
+09:59:59 [DEBUG] mail: user logged in
+06:10:46 [ERROR] mail: user logged out
+11:47:08 [INFO] payroll: sync completed

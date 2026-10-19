@@ -1,0 +1,60 @@
+15:05:07 [DEBUG] backup: certificate expires in 72 days
+16:11:14 [DEBUG] mail: disk usage at 15%
+05:54:32 [INFO] mail: disk usage at 9%
+14:38:31 [ERROR] wiki: disk usage at 40%
+09:58:49 [INFO] wiki: retrying in 16s
+18:33:15 [ERROR] mail: job finished
+09:36:11 [INFO] vpn: sync completed
+09:06:18 [ERROR] wiki: connection reset
+07:59:03 [INFO] backup: retrying in 82s
+02:18:31 [INFO] payroll: certificate expires in 7 days
+10:46:54 [INFO] printer: user logged in
+10:02:41 [WARN] mail: user logged out
+01:59:17 [INFO] backup: retrying in 10s
+10:14:24 [INFO] payroll: sync completed
+21:26:57 [WARN] vpn: sync completed
+19:07:46 [INFO] wiki: user logged out
+03:49:55 [INFO] ldap: retrying in 9s
+23:54:46 [INFO] wiki: user logged out
+06:18:31 [INFO] backup: certificate expires in 42 days
+10:59:18 [DEBUG] ldap: disk usage at 20%
+10:31:03 [DEBUG] printer: job finished
+08:24:02 [DEBUG] mail: retrying in 43s
+13:57:51 [INFO] backup: connection reset
+18:06:50 [INFO] wiki: user logged in
+21:40:44 [WARN] mail: disk usage at 54%
+18:54:08 [INFO] wiki: disk usage at 12%
+20:08:08 [WARN] mail: user logged in
+20:42:20 [INFO] payroll: job finished
+03:55:56 [DEBUG] ldap: retrying in 14s
+12:03:25 [INFO] vpn: connection reset
+10:28:08 [DEBUG] mail: sync completed
+15:33:55 [INFO] printer: user logged in
+23:33:27 [INFO] vpn: retrying in 49s
+00:06:38 [DEBUG] backup: sync completed
+12:02:35 [INFO] printer: disk usage at 9%
+19:32:09 [INFO] wiki: certificate expires in 81 days
+10:41:39 [INFO] vpn: job finished
+21:11:20 [ERROR] payroll: job finished
+15:37:51 [DEBUG] printer: sync completed
+02:25:17 [DEBUG] printer: disk usage at 1%
+03:13:07 [WARN] vpn: certificate expires in 54 days
+03:42:25 [INFO] vpn: connection reset
+00:49:40 [INFO] payroll: certificate expires in 23 days
+03:58:55 [INFO] printer: job finished
+07:24:37 [INFO] payroll: job finished
+23:00:54 [INFO] ldap: user logged in
+04:59:45 [INFO] printer: disk usage at 90%
+11:09:40 [DEBUG] backup: retrying in 16s
+18:42:37 [DEBUG] vpn: connection reset
+05:57:46 [INFO] printer: disk usage at 76%
+14:13:11 [ERROR] ldap: user logged in
+13:53:03 [INFO] ldap: connection reset
+16:19:50 [DEBUG] ldap: user logged out
+06:23:11 [WARN] ldap: disk usage at 80%
+05:11:39 [INFO] payroll: connection reset
+23:56:11 [ERROR] printer: sync completed
+02:36:30 [WARN] ldap: certificate expires in 86 days
+08:13:14 [INFO] printer: disk usage at 11%
+01:48:06 [INFO] ldap: user logged out
+02:57:20 [INFO] backup: sync completed

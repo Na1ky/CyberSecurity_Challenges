@@ -1,0 +1,49 @@
+05:21:42 [DEBUG] payroll: retrying in 39s
+17:07:00 [WARN] printer: retrying in 49s
+23:21:59 [WARN] vpn: user logged out
+16:27:23 [INFO] vpn: retrying in 1s
+03:41:10 [DEBUG] backup: user logged out
+20:30:12 [WARN] payroll: job finished
+21:00:10 [WARN] vpn: user logged out
+04:38:02 [DEBUG] backup: certificate expires in 24 days
+14:37:43 [DEBUG] ldap: user logged out
+03:44:54 [ERROR] ldap: certificate expires in 26 days
+02:56:37 [INFO] payroll: sync completed
+06:37:29 [WARN] wiki: disk usage at 46%
+02:14:51 [INFO] backup: retrying in 98s
+16:31:14 [ERROR] payroll: retrying in 52s
+01:40:45 [WARN] printer: user logged out
+18:43:52 [INFO] backup: user logged in
+02:16:16 [INFO] payroll: retrying in 35s
+09:19:54 [ERROR] ldap: retrying in 78s
+04:34:06 [WARN] printer: user logged in
+10:21:21 [INFO] mail: retrying in 52s
+20:16:06 [INFO] mail: certificate expires in 50 days
+06:23:35 [INFO] mail: user logged in
+18:41:28 [WARN] payroll: certificate expires in 30 days
+17:23:49 [INFO] mail: certificate expires in 39 days
+01:40:06 [WARN] payroll: user logged in
+04:40:42 [ERROR] payroll: retrying in 4s
+13:28:34 [INFO] mail: user logged out
+01:43:36 [ERROR] payroll: retrying in 54s
+15:22:33 [INFO] mail: retrying in 23s
+20:28:02 [ERROR] mail: retrying in 82s
+04:42:21 [DEBUG] wiki: certificate expires in 64 days
+12:28:25 [INFO] payroll: certificate expires in 11 days
+01:56:37 [DEBUG] printer: user logged out
+17:31:15 [ERROR] ldap: certificate expires in 30 days
+07:52:56 [INFO] backup: job finished
+22:56:24 [DEBUG] backup: connection reset
+01:23:11 [INFO] backup: sync completed
+15:10:40 [WARN] wiki: sync completed
+01:53:30 [INFO] backup: disk usage at 15%
+03:13:27 [INFO] printer: sync completed
+03:31:37 [INFO] mail: retrying in 96s
+11:53:41 [ERROR] printer: user logged out
+22:51:24 [ERROR] payroll: sync completed
+08:45:03 [ERROR] printer: certificate expires in 9 days
+07:56:31 [ERROR] payroll: retrying in 82s
+14:30:36 [INFO] backup: disk usage at 71%
+20:09:33 [DEBUG] mail: sync completed
+19:44:49 [DEBUG] vpn: connection reset
+20:52:56 [INFO] payroll: certificate expires in 91 days

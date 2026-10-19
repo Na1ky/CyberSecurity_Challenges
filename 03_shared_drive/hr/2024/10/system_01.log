@@ -1,0 +1,49 @@
+04:05:16 [INFO] wiki: sync completed
+22:25:14 [INFO] payroll: job finished
+08:05:51 [DEBUG] vpn: user logged out
+20:40:34 [INFO] vpn: retrying in 56s
+00:09:52 [INFO] mail: certificate expires in 34 days
+21:20:53 [DEBUG] printer: retrying in 76s
+04:45:51 [ERROR] printer: certificate expires in 31 days
+09:32:26 [INFO] vpn: certificate expires in 93 days
+20:59:14 [INFO] vpn: user logged in
+04:36:27 [DEBUG] vpn: sync completed
+18:41:38 [ERROR] printer: user logged out
+18:25:37 [INFO] wiki: user logged in
+02:39:39 [ERROR] ldap: retrying in 35s
+20:54:23 [ERROR] mail: retrying in 52s
+01:12:15 [INFO] ldap: certificate expires in 32 days
+15:07:46 [ERROR] backup: certificate expires in 28 days
+12:50:04 [INFO] payroll: certificate expires in 17 days
+22:45:08 [WARN] vpn: disk usage at 18%
+15:06:17 [INFO] wiki: job finished
+12:57:00 [INFO] printer: connection reset
+13:39:07 [WARN] vpn: user logged in
+14:24:39 [INFO] ldap: user logged out
+01:19:25 [DEBUG] wiki: retrying in 75s
+06:31:23 [DEBUG] wiki: sync completed
+01:23:13 [ERROR] printer: retrying in 10s
+19:50:05 [INFO] printer: user logged in
+00:33:48 [INFO] ldap: job finished
+09:41:12 [DEBUG] printer: user logged out
+04:52:17 [ERROR] backup: sync completed
+20:20:43 [DEBUG] wiki: user logged in
+23:26:00 [DEBUG] ldap: sync completed
+23:02:50 [INFO] backup: certificate expires in 30 days
+08:26:37 [WARN] printer: user logged in
+09:00:41 [DEBUG] mail: job finished
+18:02:51 [INFO] ldap: user logged in
+13:01:27 [INFO] mail: retrying in 22s
+21:10:42 [WARN] vpn: certificate expires in 14 days
+01:38:52 [INFO] printer: job finished
+10:14:56 [ERROR] wiki: disk usage at 16%
+01:20:53 [INFO] printer: retrying in 86s
+07:24:56 [DEBUG] wiki: user logged in
+01:44:17 [INFO] payroll: disk usage at 88%
+17:37:08 [ERROR] wiki: user logged in
+14:00:58 [INFO] payroll: sync completed
+00:59:46 [DEBUG] wiki: user logged out
+14:09:53 [INFO] vpn: sync completed
+21:32:16 [ERROR] printer: user logged out
+22:49:44 [INFO] payroll: job finished
+13:05:27 [INFO] ldap: sync completed

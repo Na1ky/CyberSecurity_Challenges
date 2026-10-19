@@ -1,0 +1,50 @@
+05:23:00 [INFO] printer: disk usage at 35%
+01:17:18 [INFO] payroll: sync completed
+21:26:27 [WARN] mail: sync completed
+06:38:11 [INFO] ldap: sync completed
+19:49:42 [DEBUG] ldap: sync completed
+15:07:21 [WARN] mail: job finished
+12:12:37 [INFO] printer: retrying in 80s
+16:37:28 [INFO] printer: certificate expires in 53 days
+13:56:26 [ERROR] ldap: disk usage at 97%
+01:10:06 [INFO] ldap: user logged in
+20:59:24 [DEBUG] backup: user logged out
+01:47:33 [WARN] wiki: disk usage at 79%
+12:13:28 [ERROR] payroll: user logged in
+19:15:48 [ERROR] printer: connection reset
+20:35:21 [ERROR] payroll: retrying in 17s
+21:49:16 [ERROR] printer: job finished
+13:15:14 [DEBUG] ldap: certificate expires in 85 days
+22:57:23 [ERROR] wiki: connection reset
+01:03:58 [DEBUG] ldap: user logged in
+23:05:14 [ERROR] printer: job finished
+03:10:57 [ERROR] mail: connection reset
+16:51:05 [DEBUG] ldap: job finished
+11:01:10 [ERROR] printer: retrying in 69s
+21:30:16 [ERROR] payroll: sync completed
+07:21:04 [INFO] ldap: connection reset
+17:25:35 [DEBUG] mail: certificate expires in 11 days
+06:48:24 [INFO] mail: user logged in
+07:14:11 [INFO] mail: retrying in 37s
+02:33:38 [DEBUG] mail: job finished
+05:04:26 [INFO] mail: disk usage at 4%
+09:46:15 [ERROR] ldap: connection reset
+09:06:11 [WARN] mail: user logged in
+00:03:37 [INFO] mail: job finished
+03:06:07 [ERROR] printer: retrying in 97s
+14:47:17 [DEBUG] mail: connection reset
+19:54:24 [INFO] backup: job finished
+20:09:47 [DEBUG] wiki: sync completed
+07:27:40 [INFO] ldap: user logged out
+19:08:13 [INFO] vpn: retrying in 13s
+10:29:59 [INFO] backup: job finished
+20:53:15 [INFO] wiki: connection reset
+05:53:29 [DEBUG] wiki: connection reset
+06:13:31 [WARN] payroll: retrying in 48s
+00:08:03 [INFO] vpn: user logged out
+19:46:49 [INFO] wiki: disk usage at 32%
+07:13:52 [INFO] vpn: user logged out
+08:50:29 [ERROR] ldap: user logged out
+21:39:30 [DEBUG] mail: sync completed
+02:04:40 [INFO] mail: certificate expires in 26 days
+20:47:59 [INFO] printer: certificate expires in 73 days

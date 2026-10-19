@@ -1,0 +1,52 @@
+22:29:15 [INFO] mail: disk usage at 13%
+17:42:38 [INFO] mail: sync completed
+09:48:30 [ERROR] ldap: sync completed
+13:53:00 [INFO] vpn: sync completed
+23:10:40 [WARN] ldap: job finished
+18:46:59 [INFO] vpn: sync completed
+08:16:06 [ERROR] backup: connection reset
+23:59:06 [INFO] payroll: user logged out
+12:31:38 [DEBUG] ldap: disk usage at 87%
+14:42:04 [DEBUG] backup: connection reset
+11:11:27 [INFO] payroll: certificate expires in 67 days
+20:52:34 [DEBUG] payroll: job finished
+12:26:37 [DEBUG] mail: job finished
+15:50:06 [DEBUG] backup: user logged in
+01:25:29 [WARN] printer: certificate expires in 23 days
+14:18:41 [DEBUG] backup: user logged out
+12:20:13 [DEBUG] mail: user logged out
+06:10:17 [INFO] wiki: connection reset
+05:21:58 [INFO] payroll: sync completed
+04:17:14 [ERROR] mail: retrying in 67s
+20:46:09 [INFO] wiki: user logged in
+09:37:40 [INFO] mail: certificate expires in 48 days
+10:28:16 [INFO] mail: certificate expires in 31 days
+21:39:13 [INFO] ldap: user logged in
+21:38:48 [ERROR] backup: user logged in
+07:07:36 [WARN] vpn: job finished
+05:20:37 [INFO] printer: sync completed
+02:07:45 [INFO] backup: job finished
+10:17:46 [ERROR] printer: certificate expires in 27 days
+09:54:22 [INFO] backup: job finished
+08:49:00 [WARN] backup: user logged in
+13:13:55 [WARN] ldap: user logged out
+11:15:01 [INFO] printer: user logged out
+17:08:44 [INFO] backup: disk usage at 28%
+07:36:34 [ERROR] wiki: job finished
+05:49:15 [DEBUG] wiki: certificate expires in 76 days
+15:38:00 [INFO] printer: job finished
+17:18:49 [DEBUG] printer: user logged in
+08:32:56 [INFO] payroll: connection reset
+07:23:07 [INFO] mail: connection reset
+19:05:02 [DEBUG] vpn: sync completed
+08:12:48 [INFO] printer: connection reset
+17:39:30 [INFO] printer: user logged out
+06:19:55 [WARN] ldap: job finished
+06:05:28 [INFO] wiki: user logged in
+11:31:40 [DEBUG] payroll: connection reset
+13:21:48 [WARN] vpn: certificate expires in 54 days
+22:46:18 [WARN] backup: job finished
+02:12:57 [ERROR] backup: disk usage at 17%
+01:32:20 [INFO] backup: sync completed
+10:40:33 [INFO] ldap: user logged in
+21:23:47 [INFO] printer: user logged out

@@ -1,0 +1,51 @@
+17:34:56 [WARN] mail: connection reset
+22:45:54 [WARN] mail: disk usage at 75%
+01:52:31 [INFO] mail: connection reset
+22:49:16 [WARN] backup: job finished
+05:23:24 [INFO] wiki: connection reset
+17:49:42 [ERROR] wiki: connection reset
+15:52:25 [DEBUG] printer: user logged in
+03:50:55 [WARN] payroll: retrying in 78s
+21:13:34 [INFO] printer: connection reset
+08:58:35 [INFO] ldap: user logged out
+17:20:40 [WARN] vpn: certificate expires in 73 days
+15:25:03 [INFO] backup: user logged out
+07:10:45 [DEBUG] ldap: retrying in 58s
+15:17:01 [WARN] ldap: user logged in
+02:54:19 [WARN] printer: user logged in
+06:09:10 [INFO] wiki: user logged in
+09:10:49 [INFO] ldap: user logged in
+11:54:45 [INFO] ldap: connection reset
+18:33:17 [WARN] backup: job finished
+20:08:05 [INFO] wiki: job finished
+18:21:10 [ERROR] mail: sync completed
+13:35:29 [ERROR] ldap: certificate expires in 60 days
+11:40:45 [WARN] payroll: job finished
+19:07:19 [INFO] backup: sync completed
+20:22:52 [ERROR] vpn: user logged in
+08:43:09 [INFO] mail: user logged out
+02:53:34 [DEBUG] printer: connection reset
+17:25:13 [INFO] payroll: job finished
+14:20:44 [WARN] mail: retrying in 42s
+10:39:58 [ERROR] printer: user logged in
+16:55:32 [INFO] backup: sync completed
+09:26:09 [INFO] payroll: user logged in
+02:09:56 [INFO] ldap: connection reset
+06:29:39 [INFO] printer: user logged in
+11:14:59 [DEBUG] printer: retrying in 82s
+17:53:26 [ERROR] printer: job finished
+07:53:45 [INFO] printer: certificate expires in 67 days
+06:10:56 [INFO] wiki: disk usage at 67%
+07:09:46 [INFO] wiki: certificate expires in 52 days
+23:29:51 [ERROR] wiki: sync completed
+15:42:09 [INFO] ldap: sync completed
+00:30:47 [ERROR] printer: retrying in 57s
+03:23:04 [INFO] ldap: certificate expires in 38 days
+07:00:11 [ERROR] wiki: user logged in
+06:44:27 [INFO] mail: sync completed
+21:35:58 [DEBUG] payroll: disk usage at 3%
+12:26:37 [INFO] backup: sync completed
+11:38:11 [INFO] ldap: certificate expires in 31 days
+20:36:07 [INFO] mail: connection reset
+15:51:30 [INFO] backup: sync completed
+01:21:50 [ERROR] payroll: user logged out
