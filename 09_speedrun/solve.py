@@ -1,5 +1,3 @@
-import re
-
 from pwn import remote
 
 HOST = "130.192.5.212"
@@ -10,13 +8,25 @@ r = remote(HOST, PORT)
 r.recvuntil(b"Go!")
 
 for _ in range(100):
-    question = r.recvuntil(b".").decode()
+    question = r.recvuntil(b"= ")
+    print("Domanda: ", question)
+    question = question.decode().split(' ')
 
-    question = question.split()
+    a = int(question[2])
+    b = int(question[4])
 
-    a, b = int(question[2]), int(question[4])
-    print(a,b, a+b)
+    response = 0
 
-    r.sendline(str(a+b).encode())
+    match question[3]:
+        case '+':
+            response = a + b
+        case '-':
+            response = a - b
+        case '/':
+            response = a/b
+        case '*':
+            response = a*b
+
+    r.sendline(str(response).encode())
     
 r.interactive()
